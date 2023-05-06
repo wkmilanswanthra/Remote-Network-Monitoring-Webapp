@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Remote Network Monitoring App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This web app enables registered users to view and monitor the devices connected to their network live.
 ## Available Scripts
 
 In the project directory, you can run:
